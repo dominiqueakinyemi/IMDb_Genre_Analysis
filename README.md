@@ -6,6 +6,7 @@
 - [Data Sources](#data-sources)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Analysis Methods](#analysis-methods)
+- [Key Visualizations](#key-visualizations)
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
 - [References](#references)
@@ -65,7 +66,7 @@ I performed the following tasks:
 EDA: 
 - Overviewed data structure and statistics.
 - Identified top-rated actors and directors.
-- Counted titles per genre and examined distribution with histogram.
+- Counted titles per genre and examined distribution.
   
 Genre and Rating Analysis:
 - Calculated average ratings per genre.
@@ -79,12 +80,21 @@ Trend Analysis:
 - Plotted average ratings and counts for genres to examine changes over time.
 - Examined genre trends for recent years.
   
-Visualizations:
-- Histogram
-- Bar charts
-- Line charts
-- Box plot
-- Scatter plot
+## Key Visualizations
+Bar Charts
+![output_193_1](https://github.com/user-attachments/assets/e062dd86-27c8-41a2-9183-02207c406ebd)
+![output_207_0](https://github.com/user-attachments/assets/910f7cd7-59b0-4ec4-b266-1a01a9c5fe2d)
+![output_208_0](https://github.com/user-attachments/assets/f003b709-1ff2-4823-8ee7-456f8c70e081)
+
+Line Charts
+![output_237_1](https://github.com/user-attachments/assets/72553592-00f6-47c9-873c-536744704e1d)
+![output_232_0](https://github.com/user-attachments/assets/42ebf05a-4d5a-4dbf-8972-82987eca188f)
+
+Box Plot
+![output_209_0](https://github.com/user-attachments/assets/dbe08060-c17e-45bc-b4d9-9b8a236bb747)
+
+Scatter Plot
+![output_212_0](https://github.com/user-attachments/assets/52bf4f8e-d340-455c-8938-83b637e2061f)
 
 ## Key Findings
 
