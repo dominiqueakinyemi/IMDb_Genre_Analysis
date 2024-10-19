@@ -14,7 +14,7 @@
 
 This project uses data from the IMDb datasets to explore how film genres influence IMDb ratings. The goal is to provide insights into which genres are most frequently associated with high-rated films and TV shows on IMDb. This analysis is designed for a streaming service or film studio seeking to optimize project selection by investing in genres with a higher likelihood of critical success.
 
-**This overview provides summaries for each project stage. To view the full analysis steps, download the PDF version of imdb_analysisv01. To replicate the analysis yourself, download the imdb_analysis.Rmd project file from this repository and the datasets from the IMDB Non-Commerical linked in References.**
+**This overview provides summaries for each project stage. To view the full analysis steps, download the PDF version of imdb_analysis. To replicate the analysis yourself, download the imdb_analysisv01.Rmd project file from this repository and the datasets from the IMDB Non-Commerical linked in References.**
 
 ### Skills
 - Data cleaning
@@ -90,6 +90,7 @@ Visualizations:
 
 - History, Documentary, and Biography (all non-fiction genres) have the highest average ratings.
 - Drama, Comedy, Documentary, and Action are the most popular genres based on title counts alone. Most film and TV shows fall into the Drama or Comedy category.
+- Along with the non-fiction genres, Action and Adventure have seen an increase in ratings in the past few years.
 - Horror movies and Thrillers currently have the worst average ratings on IMDb.
 - There are fewer titles being made in History, Documentary, and Biography genres yet they tend to have high ratings. This could suggest viewers are more interested in and appreciative of non-fiction projects, and with fewer films overall, less competition in these genres to stand out.
 - Short films have seen a decrease in popularity and have an average rating lower than other genres. This suggests feature films and TV shows are more profitable now.
