@@ -1,5 +1,7 @@
 # Analyzing Genre Influence on IMDb Ratings for Film and TV 
 
+Click here to download the full project documentation as a PDF file: [imdb_analysis.pdf](https://github.com/user-attachments/files/17963038/imdb_analysis.pdf)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
